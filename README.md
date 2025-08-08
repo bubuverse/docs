@@ -14,9 +14,10 @@ https://docs.bubuverse.fun
 
 This documentation is built with:
 
-- [Next.js](https://nextjs.org/) 14 - The React Framework for the Web
-- [Nextra](https://nextra.site/) 2.13 - Next.js Static Site Generator
-- [Nextra Docs Theme](https://nextra.site/docs/docs-theme) - A beautiful, powerful and flexible documentation theme
+- [Next.js](https://nextjs.org/) ^14.1.0 - The React Framework for the Web
+- [Nextra](https://nextra.site/) ^2.13.2 - Next.js Static Site Generator
+- [Nextra Docs Theme](https://nextra.site/docs/docs-theme) ^2.13.2 - A beautiful, powerful and flexible documentation theme
+- [React](https://react.dev/) ^18.2.0 - A JavaScript library for building user interfaces
 
 ## 🤝 Community
 
