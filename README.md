@@ -10,6 +10,14 @@
 
 https://docs.bubuverse.fun
 
+## 🛠 Tech Stack
+
+This documentation is built with:
+
+- [Next.js](https://nextjs.org/) 14 - The React Framework for the Web
+- [Nextra](https://nextra.site/) 2.13 - Next.js Static Site Generator
+- [Nextra Docs Theme](https://nextra.site/docs/docs-theme) - A beautiful, powerful and flexible documentation theme
+
 ## 🤝 Community
 
 Join the BubuVerse community and connect with fellow explorers:
