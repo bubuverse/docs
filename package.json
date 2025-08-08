@@ -1,0 +1,47 @@
+{
+  "name": "bubuverse-docs",
+  "version": "1.0.0",
+  "description": "Official documentation for BubuVerse - Labubu's Web3 Multiverse",
+  "keywords": [
+    "bubuverse",
+    "labubu",
+    "web3",
+    "metaverse",
+    "documentation",
+    "nextra"
+  ],
+  "homepage": "https://docs.bubuverse.fun",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bubuverse/docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bubuverse/docs/issues"
+  },
+  "license": "MIT",
+  "author": "BubuVerse Team",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build && next export",
+    "clean": "rm -rf .next out"
+  },
+  "dependencies": {
+    "next": "^14.1.0",
+    "next-themes": "^0.2.1",
+    "nextra": "^2.13.2",
+    "nextra-theme-docs": "^2.13.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.57.1",
+    "eslint-config-next": "14.2.31",
+    "prettier": "^3.2.5"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}

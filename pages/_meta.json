@@ -1,0 +1,34 @@
+{
+  "index": "👋 BubuVerse",
+  "bubuverse-ecosystem": {
+    "title": "ECOSYSTEM",
+    "type": "separator"
+  },
+  "starlight-energy": "⭐ Energy System",
+  "planetary-encounters": "🪐 Destiny System",
+  "fantastical-playground": "🎠 Metaverse",
+  "starlight-value-core": "💫 Value Core",
+  "ai-starlight-agent": "🤖 AI Agent",
+  "roadmap": {
+    "title": "ROADMAP",
+    "type": "separator"
+  },
+  "launch-star-map": "🌱 Phase 1: Foundation",
+  "unlock-star-realms": "🔮 Phase 2: Growth",
+  "universe-building": "🚀 Phase 3: Creation",
+  "interstellar-connection": "🛸 Phase 4: Integration",
+  "economic-system": {
+    "title": "ECONOMICS",
+    "type": "separator"
+  },
+  "model-overview": "💱 Economic Model",
+  "energy-mechanism": "✨ Energy Mechanism",
+  "token-structure": "🪙 Token Structure",
+  "tokenomics": "🧮 Tokenomics",
+  "codex-system": {
+    "title": "PLATFORM",
+    "type": "separator"
+  },
+  "nft-creature-codex": "📚 NFT Codex",
+  "planet-partner": "👑 Ambassador"
+}

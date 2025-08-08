@@ -1,0 +1,25 @@
+# Dependencies
+node_modules
+
+# Next.js
+.next
+out
+
+# Production
+build
+dist
+
+# Logs
+*.log
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Cache
+.cache
+
+# Misc
+.DS_Store
+*.tsbuildinfo
