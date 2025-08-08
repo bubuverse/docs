@@ -1,6 +1,8 @@
 # 🧸 BubuVerse Documentation
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-14.1.0-black)](https://nextjs.org)
+[![Nextra](https://img.shields.io/badge/Nextra-2.13.2-blue)](https://nextra.site)
 
 ✨ **BUBUVERSE** ✨🧸 **Labubu's Web3 Multiverse**
 
