@@ -22,10 +22,7 @@
     "title": "ECONOMICS",
     "type": "separator"
   },
-  "model-overview": "💱 Economic Model",
-  "energy-mechanism": "✨ Energy Mechanism",
-  "token-structure": "🪙 Token Structure",
-  "tokenomics": "🧮 Tokenomics",
+  "tokenomics": "Tokenomics",
   "codex-system": {
     "title": "PLATFORM",
     "type": "separator"
